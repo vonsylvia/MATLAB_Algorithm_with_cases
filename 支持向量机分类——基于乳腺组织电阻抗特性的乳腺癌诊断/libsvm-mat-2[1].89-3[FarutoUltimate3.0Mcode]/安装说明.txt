@@ -1,0 +1,1 @@
+libsvm工具箱的安装说明详见网页：http://www.matlabsky.com/forum-viewthread-tid-11925-fromuid-18677.html
